@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,500&display=swap');
+
+
+.about{
+    font-family: 'Ubuntu', sans-serif;
+}
+.disp{
+  font-size: 2.5rem;;
+}
+  .size{
+    font-size: 2rem;
+  }
+  .card:hover {
+    background-color: #af9a7d;
+
+  }
+  .text{
+    color:#af9a7d;
+}
+
+
+
+.card{
+  background-color: #e3ece9;
+
+}
+.center{
+  margin: auto;
+}
+.icon{
+  font-size: 2rem;
+}
+.icon:hover{
+  font-size: 2.2rem;
+}
+.git{
+  color: black;
+
+}
+.insta{
+  color:#C13584
+}
